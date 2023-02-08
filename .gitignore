@@ -1,0 +1,3 @@
+src/main/java/be/ninedocteur/aparesql/database/DatabaseGetter.java
+# Project exclude paths
+/.gradle/
